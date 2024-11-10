@@ -1,0 +1,3 @@
+[submodule "personal-blog"]
+  path = personal-blog
+  url = https://github.com/E-M-Frotan/personal-blog.git
